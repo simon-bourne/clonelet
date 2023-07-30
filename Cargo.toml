@@ -1,0 +1,13 @@
+[package]
+name = "clonelet"
+version = "0.1.0"
+authors = ["Simon Bourne <simonbourne@gmail.com>"]
+edition = "2021"
+description = "A simple macro to capture by clone in closures"
+homepage = "https://github.com/simon-bourne/clonelet"
+repository = "https://github.com/simon-bourne/clonelet"
+license = "MIT OR Apache-2.0"
+
+keywords = ["clone", "closure", "lambda", "capture", "dom"]
+
+[dependencies]
