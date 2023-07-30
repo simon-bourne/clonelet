@@ -1,6 +1,6 @@
 [package]
 name = "clonelet"
-version = "0.1.0"
+version = "0.2.0"
 authors = ["Simon Bourne <simonbourne@gmail.com>"]
 edition = "2021"
 description = "A simple macro to capture by clone in closures"
